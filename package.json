@@ -1,0 +1,16 @@
+{
+  "name": "olympic-flame",
+  "version": "1.0.0",
+  "description": "Virtual olympic flame",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "electricSoda",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "socket.io": "^4.1.3"
+  }
+}
